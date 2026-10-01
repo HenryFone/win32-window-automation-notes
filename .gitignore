@@ -1,0 +1,6 @@
+# 本地临时输出
+*.log
+*.bin
+*.dump
+__pycache__/
+
